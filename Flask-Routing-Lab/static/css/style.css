@@ -2,13 +2,15 @@ body {
 	background-color: royalblue;
 }
 
-#top_div{
+.top_div{
 	border-style:solid ;
 	border-radius:5px;
 	padding: 10px;
-	border-color:yellow;
+	border-color:lightgoldenrodyellow;
 	align-content: center;
+	display: inline-block;
+	background: yellow;
 }
-#button{
-	margin: 10px;
+.divv{
+	background:yellow;
 }
