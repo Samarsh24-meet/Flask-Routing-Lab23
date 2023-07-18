@@ -9,6 +9,9 @@ app = Flask(  # Create a flask app
 
 # Your code should be below
 
+@app.route('/home')
+def hello():
+    return render_template('home.html')
 
 
 

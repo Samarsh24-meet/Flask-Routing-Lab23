@@ -1,1 +1,14 @@
+body {
+	background-color: royalblue;
+}
 
+#top_div{
+	border-style:solid ;
+	border-radius:5px;
+	padding: 10px;
+	border-color:yellow;
+	align-content: center;
+}
+#button{
+	margin: 10px;
+}
